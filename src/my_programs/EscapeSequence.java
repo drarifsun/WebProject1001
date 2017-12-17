@@ -20,7 +20,7 @@ public class EscapeSequence {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("This is a lesson of java \n \tPractise hard to learn");
+		System.out.println("This is a dynamic lesson of java \n \tPractise hard to learn");
 		System.out.print(" \tJava is a programming language \n");
 		System.out.println("This is very robust and dynamic \n");
 		
