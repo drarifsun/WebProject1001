@@ -11,17 +11,20 @@ public class ExecutionSteps {
 		// TODO Auto-generated method stub
 		
 		
-		System.out.println("Hello World");
+		System.out.println("Hello beautiful World");
 		
 		//you tube link provided, is helpful
 		
 		/*
-		 * JVC (java virtual compiler converts source code to byte code (not human readable)
+		 * JVC (java virtual compiler) converts source code to byte code (not human readable)
 		 * JVM (java virtual machine) converts byte code to executable file
 		 * then program execution can be done
 		 */
 		
-		System.out.println("I am trying to learn Java \nWish me luck");
+		System.out.println("I am trying to learn Java \nWish me luck \n");
+		System.out.println("JVC (java virtual compiler) converts source code to byte code (not human readable)");
+		System.out.println("JVM (java virtual machine) converts byte code to executable file");
+		System.out.println("then program execution can be done");
 	}
 
 }
