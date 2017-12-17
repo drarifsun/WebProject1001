@@ -52,7 +52,7 @@ public class Variables {
 		
 		//initialization
 		
-		System.out.println("declaration (dynamic initialization)\n");
+		System.out.println("declaration (this is dynamic initialization)\n");
 		System.out.println("boolean Ques = true"); //holds only true or false
 		System.out.println("char Name = J"); //char should be within single quote
 		System.out.println("short num = 67"); //for whole number
