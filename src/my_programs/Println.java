@@ -16,7 +16,7 @@ public class Println {
 		System.out.println("This is a lesson of java");
 		System.out.print("Practise hard to learn \n");
 		System.out.print("Java is a programming language \n");
-		System.out.print("This is very robust and dynamic");
+		System.out.print("This is very robust and dynamic\n \nJava is an object oriented program");
 	}
 
 }
