@@ -48,6 +48,10 @@ public class for_while_do_while {
 		
 		//==============================================================================
 		
+		
+		// Latest Commit on 12/26/2017.
+		
+		
 		/*for (int i=0;i<5;i++)
 		
 		{
@@ -66,23 +70,25 @@ public class for_while_do_while {
 		
 		//==============================================================================
 		
-		/*int j=0;
-		while (j<5)
+		int j=1;
+		while (j<=5)
 		
 		{
-			System.out.println("Rabbir Hamhuma Kama Rabbyani Sageera");
+			System.out.println(j+"Rabbir Hamhuma Kama Rabbyani Sageera"); 
+			//add serial number
 			j++;
 		}
-		*/
+		
 		
 		//================================================================================
 		
-		int k=7;
+		/*int k=7;
 		do
 		{
 			System.out.println("Bismillahir Rahmanir Rahim");
 			k--;
 		} while (k>0);
+		*/
 	}
 
 }
