@@ -22,7 +22,7 @@ public class if_if_else {
 		 */
 
 		
-		String name;
+		/*String name;
 		name="Infection";
 
 		if(name=="Infection") {
@@ -39,8 +39,29 @@ public class if_if_else {
 			else {
 				System.out.println("\nDisease not found");
 			}
+			*/
+		
+		
+		String name;
+		name="Donald Trump";
+		
+		if (name=="Abraham Lincoln")
+		{
+			System.out.println("Abraham Lincoln was the 16th President of USA");
+			System.out.println("Served from March 1861 until his assassination in April 1865");
+			}
+		
+		else if(name=="Barack Obama")
+		{	
+			System.out.println("Barack Hussein Obama served as 44th President of USA from 2009 to 2017");
+			System.out.println("The first African American president previously served as a US Senator");
+		}
+		
+		else
+		{
+			System.out.println("Not in the list of US presidents");
+		}
 	}
-
 }
 
 
