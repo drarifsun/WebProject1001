@@ -55,7 +55,7 @@ public class if_if_else {
 		
 		else if(name=="Barack Obama")
 		{	
-			System.out.println("Barack Hussein Obama served as 44th President of USA from 2009 to 2017");
+			System.out.println("Barack Hussein Obama II served as 44th President of USA from 2009 to 2017");
 			System.out.println("The first African American president previously served as a US Senator");
 		}
 		
