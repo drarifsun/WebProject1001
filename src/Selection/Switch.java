@@ -10,7 +10,7 @@ public class Switch {
 		System.out.println("use of Conditional Statement 'Switch'");
 		System.out.println("======================================");
 		
-		int Day=0;
+		/*int Day=0;
 		switch(Day)
 		{
 		case 1:
@@ -51,8 +51,36 @@ public class Switch {
 			default:
 				
 				System.out.println("\nyou are no where in 7 days !!!");
-
+				}
+				*/
+		
+		//==================================================================================
+		
+		int name=4;
+		switch (name)
+		{
+		case 1:
+			System.out.println("Jamal Hossain is in 5th grade.");
+			break;
+			
+		case 2:
+			System.out.println("Rajib Hossain is in 3rd grade\n");
+			System.out.println("He is Jamal's younger brother.");
+			break;
+			
+		case 3:
+			System.out.println("Rafsan is in 7th grade. \nHe lives in Shukrabad.");
+			break;
+			
+		case 4:
+			System.out.println("Zareen is in 7th grade too.");
+			System.out.println("She is Rafsan's twin sister.");
+			break;
+			
+		default:
+			System.out.println("Student not found");
 		}
+		
 	}				
 			
 }
