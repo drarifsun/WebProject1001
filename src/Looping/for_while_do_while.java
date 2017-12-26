@@ -8,7 +8,10 @@ public class for_while_do_while {
 		System.out.println("Practice loop statement");
 		System.out.println("========================================");
 		
+		//keyword for has (initialization, condition and increment or decrement)
+		
 		/*for (int i=0;i<7;i++)
+		 // increment shown
 		{
 			System.out.println("La Ilaha Illallahu Mohammadur Rasulullah");
 			
@@ -17,6 +20,7 @@ public class for_while_do_while {
 		//==============================================================================
 		
 		/*for (int i=7;i>0;i--)
+		 // decrement shown
 			{
 			System.out.println("Allahu Akbar");
 			
@@ -44,6 +48,41 @@ public class for_while_do_while {
 		
 		//==============================================================================
 		
+		/*for (int i=0;i<5;i++)
+		
+		{
+			System.out.println("Labbaik Allahumma Labbaik \nLabbaika Laa Shareeka Laka Labbaik");
+		}
+		*/
+		
+		//===============================================================================
+		
+		/*for (int i=5;i>0;i--)
+			
+		{
+			System.out.println("Innal Hamda, Wan Nay'mata...Laka Wal Mulk \nLaa Shareeka Laka");
+		}
+		*/
+		
+		//==============================================================================
+		
+		/*int j=0;
+		while (j<5)
+		
+		{
+			System.out.println("Rabbir Hamhuma Kama Rabbyani Sageera");
+			j++;
+		}
+		*/
+		
+		//================================================================================
+		
+		int k=7;
+		do
+		{
+			System.out.println("Bismillahir Rahmanir Rahim");
+			k--;
+		} while (k>0);
 	}
 
 }
