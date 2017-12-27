@@ -5,6 +5,9 @@ public class ArrayPractice {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		
+		//Array declaration and creation in same line
+		
 		int[] a = {10,5,7,8,21};
 		
 		for (int i=0;i<4;i++);
