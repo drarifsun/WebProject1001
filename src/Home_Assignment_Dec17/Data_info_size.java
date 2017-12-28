@@ -42,7 +42,7 @@ public class Data_info_size {
 		object[10]= "Others";
 		
 		System.out.println("Following are the Non-Primitive data types.");
-		System.out.println("============================================\n");
+		System.out.println("=============================================\n");
 		System.out.println(object[8] + "\n" + object[9] + "\n" + object[10]);
 	}
 
