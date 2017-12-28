@@ -5,8 +5,9 @@ public class Result_finder {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		
-		System.out.println("Assignment #1 : Based on total marks, make a result finder program");
+		System.out.println("\n");
+		System.out.println("Home Task assigned by Dr. Lutfor Rahman Khan on December 24th, 2017.\n");
+		System.out.println("Topic: Based on total marks, make a result finder program");
 		System.out.println("===================================================================\n");
 		System.out.println("using 'if_else if_else' statement");
 		System.out.println("===================================\n");
