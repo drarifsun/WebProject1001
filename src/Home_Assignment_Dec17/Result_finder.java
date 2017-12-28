@@ -50,7 +50,7 @@ public class Result_finder {
 		System.out.println("Third Division= 330 or <450\n");
 		
 		
-		int result=1000;
+		int result=300;
 		
 		switch (result)
 		{
@@ -75,7 +75,7 @@ public class Result_finder {
 			break;
 			
 		default:
-			System.out.println("Student not found.");
+			System.out.println("Student's record was not found.");
 			} 
 		
 	
