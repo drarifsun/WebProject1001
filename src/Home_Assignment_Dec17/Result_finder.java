@@ -39,7 +39,7 @@ public class Result_finder {
 		//====================================================================================================
 		
 		
-		
+	
 		System.out.println("Assignment #1 : Based on total marks, make a result finder program");
 		System.out.println("===================================================================\n");
 		System.out.println("using 'Switch' statement");
@@ -76,9 +76,8 @@ public class Result_finder {
 			
 		default:
 			System.out.println("Student's record was not found.");
-			} 
+			}
 		
-	
 	}
 
 }
