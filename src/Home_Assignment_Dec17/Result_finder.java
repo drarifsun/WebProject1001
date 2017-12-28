@@ -5,7 +5,7 @@ public class Result_finder {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		/*
+		
 		System.out.println("Assignment #1 : Based on total marks, make a result finder program");
 		System.out.println("===================================================================\n");
 		System.out.println("using 'if_else if_else' statement");
@@ -32,7 +32,7 @@ public class Result_finder {
 		{
 			System.out.println("Result: The student has either passed with a 'Third Division' or failed.");
 		}
-		*/
+		
 		
 		
 		
