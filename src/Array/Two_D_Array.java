@@ -46,7 +46,7 @@ public class Two_D_Array {
 		
 		//===================================================================
 		
-		
+		/*
 		int [][] bytes = new int [3][3];
 		
 		bytes[0][0]= 23;
@@ -68,6 +68,33 @@ public class Two_D_Array {
 			}
 				System.out.println();
 		}
+		*/
+		
+		
+		//============================================================
+		
+		
+		int[][] pulse_rate= new int [3][3];
+		
+				pulse_rate[0][0]=76;
+				pulse_rate[0][1]=82;
+				pulse_rate[0][2]=88;
+				pulse_rate[1][0]=79;
+				pulse_rate[1][1]=86;
+				pulse_rate[1][2]=78;
+				pulse_rate[2][0]=84;
+				pulse_rate[2][1]=77;
+				pulse_rate[2][2]=90;
+		
+				for (int i=0; i<3; i++)
+				{
+					for (int j=0;j<3;j++)
+					{
+						System.out.print(" "+pulse_rate[i][j]);
+					}
+					System.out.println();
+				}
+		
 	}
 
 }
