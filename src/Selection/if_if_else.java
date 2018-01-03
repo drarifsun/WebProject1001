@@ -43,7 +43,7 @@ public class if_if_else {
 		
 		//=================================================================================
 		
-		
+		/*
 		String name;
 		name="Donald Trump";
 		
@@ -62,6 +62,28 @@ public class if_if_else {
 		else
 		{
 			System.out.println("Not in the list of US presidents");
+		}
+		*/
+		
+		//=====================================================================================================
+		
+		
+		String nutrition;
+		nutrition="carrot";
+		
+		if (nutrition=="carrot")
+		{
+			System.out.println("Carrot is a rich source of vitamin A essential for good vision.");
+		}
+		
+		else if (nutrition=="fish")
+		{
+			System.out.println("Fish is an essential source of animal protein.");
+		}
+		
+		else
+		{
+			System.out.println("not found in nutrition list.");
 		}
 	}
 }
