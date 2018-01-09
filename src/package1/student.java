@@ -29,9 +29,12 @@ public void display() {
 		student Mamun = new student();
 		student Nazmul = new student();
 		
-		Mamun.Name = "Syed Mamun";
-		Mamun.Roll = 225;
-		Mamun.Marks = 78.7f;
+		//Mamun.Name = "Syed Mamun";
+		//Mamun.Roll = 225;
+		//Mamun.Marks = 78.7f;
+		
+		Mamun.setdata("Syed Mamun", 225, 78.7f);
+		
 		
 		System.out.println("The student's name is "+Mamun.Name);
 		System.out.println("Roll no is "+Mamun.Roll);
