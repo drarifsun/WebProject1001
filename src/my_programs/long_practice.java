@@ -9,7 +9,7 @@ public class long_practice {
 		long speed=3;
 		long distance;
 		distance = hour*3;
-		System.out.print("in "+hour +" hours Josh will run ");
+		System.out.print("in "+hour +" hours Josh will be running ");
 		System.out.println( distance + " miles.");
 
 	}
